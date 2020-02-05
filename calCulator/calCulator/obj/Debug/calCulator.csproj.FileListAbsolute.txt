@@ -1,0 +1,7 @@
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\bin\Debug\calCulator.exe.config
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\bin\Debug\calCulator.exe
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\bin\Debug\calCulator.pdb
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\obj\Debug\calCulator.csprojAssemblyReference.cache
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\obj\Debug\calCulator.csproj.CoreCompileInputs.cache
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\obj\Debug\calCulator.exe
+\\train-dc2.training.local\Redirected Folders\tanveera\Desktop\Week 3\calCulator\calCulator\obj\Debug\calCulator.pdb
